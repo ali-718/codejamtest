@@ -22,5 +22,3 @@ I was learning test using jest library which seems to be quite difficult. if I w
 ### Problems
 
 The apis are very simple which only gets all list of albums, users and photos i had to use filter methods to filter out albums based on selected user and images bsed on selected album.
-
-### Test
